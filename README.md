@@ -4,7 +4,7 @@ Aplikasi Tiket Pesawat adalah sebuah aplikasi yang dirancang untuk mempermudah p
 
 ## Form
 
-1. ** Form Input Maskapai**: 
+1. **Form Input Maskapai**: 
    - Kode Maskapai
    - Nama Maskapai
 2. ** Form Input Penumpang**:
